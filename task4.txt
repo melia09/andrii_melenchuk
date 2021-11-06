@@ -1,4 +1,4 @@
-[Forwarded from Назар]
+
 public static int num_of_pairs(List<int> nums, int target) {
       int counter = 0;
       for(int i = 0; i < nums.Count; i++) {
